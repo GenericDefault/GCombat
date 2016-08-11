@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"GCX"
+	"version"		"1"
+	"up_date"		"August 7 2008"
+	"author_name"		"Generic Default"
+	"author_email"		"AIDS!"
+	"author_url"		"http://code.google.com/p/generic-defaults-combat/"
+	"info"			"A mod of a mod of a mod of a mod. Started in Fall 2009"
+	"override"		"0"
+}
